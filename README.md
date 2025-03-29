@@ -21,7 +21,7 @@
   
 - Checking for missing values
 
--Present the data with visualizations
+-Present the data with visualizations "C:\School Work\Project Phase 1\dsc-phase-1-project-v3\Phase 1_Dashboard.png"
 
 ### Give Recommendations and conclusions
 Using an interactive dashboard to show what our findings will be and what next steps we should take.
