@@ -17,11 +17,10 @@
 
 ### Data Understanding 
 - Understanding the data set:
-"C:\School Work\Project Phase 1\dsc-phase-1-project-v3\AviationData.csv"
   
 - Checking for missing values
 
--Present the data with visualizations "C:\School Work\Project Phase 1\dsc-phase-1-project-v3\Phase 1_Dashboard.png"
+ - Present the data with visualizations : from tableau and also jupyter notebook (https://public.tableau.com/app/profile/cornelius.ngatia6449/viz/ProjectPhase1_17432759914870/AviationDataDashboard)
 
 ### Give Recommendations and conclusions
 Using an interactive dashboard to show what our findings will be and what next steps we should take.
