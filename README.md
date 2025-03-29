@@ -16,7 +16,8 @@
   - Make main objectives on how to achieve our understanding of the business
 
 ### Data Understanding 
-- Understanding the data set
+- Understanding the data set:
+"C:\School Work\Project Phase 1\dsc-phase-1-project-v3\AviationData.csv"
   
 - Checking for missing values
 
