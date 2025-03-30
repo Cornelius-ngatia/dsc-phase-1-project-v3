@@ -21,13 +21,10 @@
 - Checking for missing values
 
  - Present the data with visualizations : from tableau and also jupyter notebook
- - Explore detailed aviation data insights via our Tableau dashboard 
+ - Explore detailed aviation data insights via  Tableau dashboard 
  - (https://public.tableau.com/app/profile/cornelius.ngatia6449/viz/ProjectPhase1_17432759914870/AviationDataDashboard)
- - For more detailed aviation data insights via our jupyter notebook:
-![Screenshot of Dashboard](assets/images/Screenshot_2025-03-30.png)
-![Box Plot](assets/images/Box_plot.png)
-![Regression Plot](assets/images/Regression_plot.png)
-   
+ - For more detailed aviation data insights via  jupyter notebook:
+![image alt](https://github.com/Cornelius-ngatia/dsc-phase-1-project-v3/blob/4665b1fcb135cf8aa1dc337781f1cb4a1b5847f5/Regression%20plot.png)
 
 ### Give Recommendations and conclusions
 Using an interactive dashboard to show what our findings will be and what next steps we should take.
