@@ -13,6 +13,7 @@ To understand and analyze the data effectively:
 Explore detailed aviation data insights via our Tableau dashboard: 
 [view the tableau Dashboard](https://github.com/Cornelius-ngatia/dsc-phase-1-project-v3/blob/9ba0dad7d38b4ccdc353746571d76babb039dd18/Tableau%20Dashboard%20link)
 For insights presented through Jupyter Notebook, key visualizations include:
+![Image alt](https://github.com/Cornelius-ngatia/dsc-phase-1-project-v3/blob/45bb2f25537c710a56131ad5a79e62a926b038a4/Box%20plot%20.png)
 
 ### Recommendations and Conclusions
 Our recommendations leverage findings from an interactive dashboard to provide actionable next steps:
