@@ -26,6 +26,7 @@
  - For more detailed aviation data insights via  jupyter notebook:
 ![image alt](https://github.com/Cornelius-ngatia/dsc-phase-1-project-v3/blob/4665b1fcb135cf8aa1dc337781f1cb4a1b5847f5/Regression%20plot.png)
 ![image alt](https://github.com/Cornelius-ngatia/dsc-phase-1-project-v3/blob/606b642166142905b6de4d79a5693ec162d69605/Box%20plot%20.png)
+![image alt](https://github.com/Cornelius-ngatia/dsc-phase-1-project-v3/blob/5cb6cf46c684685dffb9d4fbc438babb82030901/Screenshot%202025-03-30%20095857.png)
 
 ### Give Recommendations and conclusions
 Using an interactive dashboard to show what our findings will be and what next steps we should take.
