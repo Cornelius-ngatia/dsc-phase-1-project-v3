@@ -25,6 +25,7 @@
  - (https://public.tableau.com/app/profile/cornelius.ngatia6449/viz/ProjectPhase1_17432759914870/AviationDataDashboard)
  - For more detailed aviation data insights via  jupyter notebook:
 ![image alt](https://github.com/Cornelius-ngatia/dsc-phase-1-project-v3/blob/4665b1fcb135cf8aa1dc337781f1cb4a1b5847f5/Regression%20plot.png)
+![image alt](https://github.com/Cornelius-ngatia/dsc-phase-1-project-v3/blob/606b642166142905b6de4d79a5693ec162d69605/Box%20plot%20.png)
 
 ### Give Recommendations and conclusions
 Using an interactive dashboard to show what our findings will be and what next steps we should take.
