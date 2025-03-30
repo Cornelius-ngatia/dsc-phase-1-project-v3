@@ -20,8 +20,21 @@
   
 - Checking for missing values
 
- - Present the data with visualizations : from tableau and also jupyter notebook (https://public.tableau.com/app/profile/cornelius.ngatia6449/viz/ProjectPhase1_17432759914870/AviationDataDashboard)
+ - Present the data with visualizations : from tableau and also jupyter notebook
+ - Explore detailed aviation data insights via our Tableau dashboard 
+ - (https://public.tableau.com/app/profile/cornelius.ngatia6449/viz/ProjectPhase1_17432759914870/AviationDataDashboard)
+ - For more detailed aviation data insights via our jupyter notebook:
+![Screenshot of Dashboard](assets/images/Screenshot_2025-03-30.png)
+![Box Plot](assets/images/Box_plot.png)
+![Regression Plot](assets/images/Regression_plot.png)
+   
 
 ### Give Recommendations and conclusions
 Using an interactive dashboard to show what our findings will be and what next steps we should take.
-### End
+for example:
+- Prioritize manufacturers offering customizable aircraft, allowing integration of features suited
+to different operational environments.
+- Analyzing safety records and operational risks helps reduce exposure to catastrophic events,
+protecting both passengers and investments.
+#### A link to our detailed presentation
+
