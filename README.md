@@ -15,6 +15,8 @@ Explore detailed aviation data insights via our Tableau dashboard:
 For insights presented through Jupyter Notebook, key visualizations include:
 ![Image alt](https://github.com/Cornelius-ngatia/dsc-phase-1-project-v3/blob/45bb2f25537c710a56131ad5a79e62a926b038a4/Box%20plot%20.png)
 ![Image alt](https://github.com/Cornelius-ngatia/dsc-phase-1-project-v3/blob/7eca7fb8d6a684892077f5b044aa3767a816d5c7/Regression%20plot.png)
+![Image alt](https://github.com/Cornelius-ngatia/dsc-phase-1-project-v3/blob/5323c72ed80fbe95f6efd9049bc265be1f59181f/Screenshot%202025-03-30%20095857.png)
+
 ### Recommendations and Conclusions
 Our recommendations leverage findings from an interactive dashboard to provide actionable next steps:
 
