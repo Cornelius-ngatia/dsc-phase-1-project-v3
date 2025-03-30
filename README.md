@@ -35,6 +35,7 @@ for example:
 to different operational environments.
 - Analyzing safety records and operational risks helps reduce exposure to catastrophic events,
 protecting both passengers and investments.
-#### A link to our detailed presentation
+#### A link to our detailed presentation here:
+[View the PDF](https://github.com/Cornelius-ngatia/dsc-phase-1-project-v3/blob/0ea576bf0ee8649b97f051195f96c84fed279e08/Presentation%20Phase%201%20project.pdf)
 
 
