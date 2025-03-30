@@ -19,6 +19,9 @@ For insights presented through Jupyter Notebook, key visualizations include:
 
 ### Recommendations and Conclusions
 Our recommendations leverage findings from an interactive dashboard to provide actionable next steps:
+for example:
+Prioritize manufacturers offering customizable aircraft, allowing integration of features suited to different operational environments.
+Evaluate maintenance records and costs associated with various models to ensure reliability and minimize downtime.
 
 For a more detailed overview, view our presentation here:
 [View the PDF](https://github.com/Cornelius-ngatia/dsc-phase-1-project-v3/blob/0ea576bf0ee8649b97f051195f96c84fed279e08/Presentation%20Phase%201%20project.pdf)
