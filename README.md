@@ -10,7 +10,8 @@ The company's entry into the aviation industry represents an opportunity to dive
 ### Data Understanding
 To understand and analyze the data effectively:
 
-Explore detailed aviation data insights via our Tableau dashboard: Aviation Data Dashboard.
+Explore detailed aviation data insights via our Tableau dashboard: 
+[view the tableau Dashboard](https://github.com/Cornelius-ngatia/dsc-phase-1-project-v3/blob/9ba0dad7d38b4ccdc353746571d76babb039dd18/Tableau%20Dashboard%20link)
 For insights presented through Jupyter Notebook, key visualizations include:
 
 ### Recommendations and Conclusions
